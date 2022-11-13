@@ -2,3 +2,5 @@
 # git remote
 # git add remote
 # git pull
+# git pull add
+# git added
